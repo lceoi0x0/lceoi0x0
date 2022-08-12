@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+<div class="d-flex flex-items-center">
+            <h2 class="Box-title">
+              <a href="#readme" data-view-component="true" class="Link--primary">README.md</a>
+            </h2>
+          </div>
+<h3 dir="auto"><a id="user-content-hi-there-" class="anchor" aria-hidden="true" href="#hi-there-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
 
-You can use the [editor on GitHub](https://github.com/lceoi0x0/lceoi0x0/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![LyricEic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyriceic03&hide=contribs,prs)
 
-```markdown
-Syntax highlighted code block
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyriceic03&layout=compact)](https://github.com/Dec-03/github-readme-stats)
 
-# Header 1
-## Header 2
-### Header 3
+<img src="https://camo.githubusercontent.com/31e34b7b10c00c7172a8e368520b127a245133fc193500a242fbb36474fa03b6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d616c65786375693033266c61796f75743d636f6d706163742673686f775f69636f6e733d74727565" alt="Wakatime" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=alexcui03&amp;layout=compact&amp;show_icons=true" style="max-width: 100%;">
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lceoi0x0/lceoi0x0/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
